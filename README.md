@@ -1,8 +1,8 @@
-\# Beecrowd 2780 - Basquete de Robôs
+# Beecrowd 2780 - Basquete de Robôs
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 2780 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um valor inteiro D, representando a distância do robô até o
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa apresenta a quantidade de pontos correspondente à distância informa
 
 
 
-\## Autor
+## Autor
 
 
 
